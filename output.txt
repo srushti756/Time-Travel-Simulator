@@ -1,0 +1,73 @@
+============================================
+        TIME TRAVEL SIMULATOR
+============================================
+
+--------------------------------------------
+Current Event: Present Day
+--------------------------------------------
+1. Travel Forward
+2. Travel Back
+3. Undo Time Travel
+4. Add Future Event
+5. Exit
+
+Enter your choice: 1
+
+Travelled Forward to: College Begins
+
+
+--------------------------------------------
+Current Event: College Begins
+--------------------------------------------
+1. Travel Forward
+2. Travel Back
+3. Undo Time Travel
+4. Add Future Event
+5. Exit
+
+Enter your choice: 1
+
+Travelled Forward to: First Semester Exam
+
+
+--------------------------------------------
+Current Event: First Semester Exam
+--------------------------------------------
+1. Travel Forward
+2. Travel Back
+3. Undo Time Travel
+4. Add Future Event
+5. Exit
+
+Enter your choice: 2
+
+Travelled Back to: College Begins
+
+
+--------------------------------------------
+Current Event: College Begins
+--------------------------------------------
+1. Travel Forward
+2. Travel Back
+3. Undo Time Travel
+4. Add Future Event
+5. Exit
+
+Enter your choice: 4
+
+Enter new future event: Final Year Project
+Future event added: Final Year Project
+
+
+--------------------------------------------
+Current Event: College Begins
+--------------------------------------------
+1. Travel Forward
+2. Travel Back
+3. Undo Time Travel
+4. Add Future Event
+5. Exit
+
+Enter your choice: 5
+
+Thank you for using Time Travel Simulator!
